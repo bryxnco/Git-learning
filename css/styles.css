@@ -12,6 +12,7 @@ body {
   font-family: sans-serif;
   font-size: 1.8rem;
   color: #ddd;
+  background: linear-gradient(#0388a6, #f14e32);
 }
 
 .container {
@@ -25,7 +26,6 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background: linear-gradient(#0388a6, #f14e32);
 }
 
 .main-heading {
